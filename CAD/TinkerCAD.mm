@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1487577006828" ID="ID_1286453333" MODIFIED="1487583713074" TEXT="TinkerCAD">
+<node CREATED="1487577006828" ID="ID_1286453333" MODIFIED="1487599712478" TEXT="TinkerCAD">
 <node CREATED="1487577184388" ID="ID_1864685139" MODIFIED="1487577194019" POSITION="right" TEXT="Move shapes along the workplane">
 <node CREATED="1487577274648" ID="ID_1237782029" MODIFIED="1487577279869" TEXT="Drag">
 <node CREATED="1487577279871" ID="ID_611023575" MODIFIED="1487577288078" TEXT="click and use the arrow key"/>
@@ -28,5 +28,11 @@
 <node CREATED="1487583923335" ID="ID_654851918" MODIFIED="1487583931399" TEXT="Click both shapes"/>
 <node CREATED="1487583931850" ID="ID_1739449779" MODIFIED="1487583943323" TEXT="Group them using the Group button in the toolbar."/>
 </node>
+<node CREATED="1487599713770" ID="ID_1956887620" MODIFIED="1487599723059" POSITION="left" TEXT="Scale/Copy/Paste">
+<node CREATED="1487599879780" ID="ID_1259126483" MODIFIED="1487599894793" TEXT="Drag down the white dot on top of the shape"/>
+<node CREATED="1487599938945" ID="ID_1273980762" MODIFIED="1487599950217" TEXT="Ctrl+C or Cmd+C to copy the shape"/>
+<node CREATED="1487599950910" ID="ID_508980968" MODIFIED="1487599960422" TEXT="Ctrl+V to paste the shape"/>
+</node>
+<node CREATED="1487600225601" ID="ID_1643728194" MODIFIED="1487600232626" POSITION="right" TEXT="Key Ring, Letters"/>
 </node>
 </map>
