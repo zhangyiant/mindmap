@@ -33,6 +33,13 @@
 <node CREATED="1487599938945" ID="ID_1273980762" MODIFIED="1487599950217" TEXT="Ctrl+C or Cmd+C to copy the shape"/>
 <node CREATED="1487599950910" ID="ID_508980968" MODIFIED="1487599960422" TEXT="Ctrl+V to paste the shape"/>
 </node>
-<node CREATED="1487600225601" ID="ID_1643728194" MODIFIED="1487600232626" POSITION="right" TEXT="Key Ring, Letters"/>
+<node CREATED="1487600225601" ID="ID_1643728194" MODIFIED="1487600232626" POSITION="right" TEXT="Key Ring, Letters">
+<node CREATED="1487688088604" ID="ID_9305990" MODIFIED="1487688111064" TEXT="Edit Snap Grid on the right bottom corner."/>
+<node CREATED="1487688126710" ID="ID_566368497" MODIFIED="1487688146967" TEXT="After selecting the shape, use arrow keys on the keyboard to nudge the shape"/>
+<node CREATED="1487688159668" ID="ID_775562297" MODIFIED="1487688183336" TEXT="Resize the shape using dragging the black dot."/>
+<node CREATED="1487688195174" ID="ID_1208428342" MODIFIED="1487688215035" TEXT="Click and drag your mouse across all the shapes to select them all."/>
+<node CREATED="1487688222040" ID="ID_1460199932" MODIFIED="1487688233246" TEXT="Press the &quot;delete&quot; key to remove selected shapes."/>
+<node CREATED="1487688245900" ID="ID_543877993" MODIFIED="1487688265569" TEXT="Select all shapes and group them all using &quot;Group&quot; button."/>
+</node>
 </node>
 </map>
