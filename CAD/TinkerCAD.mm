@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1487577006828" ID="ID_1286453333" MODIFIED="1487599712478" TEXT="TinkerCAD">
+<node CREATED="1487577006828" ID="ID_1286453333" MODIFIED="1487738248782" TEXT="TinkerCAD">
 <node CREATED="1487577184388" ID="ID_1864685139" MODIFIED="1487577194019" POSITION="right" TEXT="Move shapes along the workplane">
 <node CREATED="1487577274648" ID="ID_1237782029" MODIFIED="1487577279869" TEXT="Drag">
 <node CREATED="1487577279871" ID="ID_611023575" MODIFIED="1487577288078" TEXT="click and use the arrow key"/>
@@ -40,6 +40,11 @@
 <node CREATED="1487688195174" ID="ID_1208428342" MODIFIED="1487688215035" TEXT="Click and drag your mouse across all the shapes to select them all."/>
 <node CREATED="1487688222040" ID="ID_1460199932" MODIFIED="1487688233246" TEXT="Press the &quot;delete&quot; key to remove selected shapes."/>
 <node CREATED="1487688245900" ID="ID_543877993" MODIFIED="1487688265569" TEXT="Select all shapes and group them all using &quot;Group&quot; button."/>
+</node>
+<node CREATED="1487738250607" ID="ID_308083685" MODIFIED="1487738256645" POSITION="left" TEXT="Die on the workplane">
+<node CREATED="1487738662507" ID="ID_1328284250" MODIFIED="1487738672944" TEXT="Drag a workplane to use a new workplance"/>
+<node CREATED="1487738673455" ID="ID_153456513" MODIFIED="1487738681259" TEXT="New shape will be added on that workplane"/>
+<node CREATED="1487738749212" ID="ID_1072195144" MODIFIED="1487738756059" TEXT="Select all shapes and group them all"/>
 </node>
 </node>
 </map>
