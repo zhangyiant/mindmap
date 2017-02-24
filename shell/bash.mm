@@ -24,7 +24,7 @@
 <node CREATED="1487928004759" ID="ID_1139901656" MODIFIED="1487928010738" TEXT="Readline Killing Commands">
 <node CREATED="1487928019363" ID="ID_1949047288" MODIFIED="1487928038482" TEXT="C-k Kill the text from the current cursor position to the end of the line."/>
 <node CREATED="1487928041322" ID="ID_1803189231" MODIFIED="1487928077159" TEXT="M-d Kill from the cursor to the end of the current word, or, if between words, to the end of the next word."/>
-<node CREATED="1487928078425" ID="ID_1933299916" MODIFIED="1487928113001" TEXT="M-DEL Kill from the cursor the start of the current word, or, if between words, to the start of the previous word."/>
+<node CREATED="1487928078425" ID="ID_1933299916" MODIFIED="1487928388650" TEXT="M-DEL Kill from the cursor to the start of the current word, or, if between words, to the start of the previous word."/>
 <node CREATED="1487928113995" ID="ID_1585433279" MODIFIED="1487928133734" TEXT="C-w Kill from the cursor to the previous whitespace."/>
 </node>
 </node>
