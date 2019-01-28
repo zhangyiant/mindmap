@@ -28,5 +28,67 @@
 <node CREATED="1487928113995" ID="ID_1585433279" MODIFIED="1487928133734" TEXT="C-w Kill from the cursor to the previous whitespace."/>
 </node>
 </node>
+<node CREATED="1547605820121" ID="ID_1116992949" MODIFIED="1547605822155" POSITION="right" TEXT="functions">
+<node CREATED="1547605822852" ID="ID_734605829" MODIFIED="1547606119391" TEXT="create function">
+<node CREATED="1547605827965" ID="ID_1995399815" MODIFIED="1547605844116">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      function name {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;commands
+    </p>
+    <p>
+      }
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1547605846033" ID="ID_482073541" MODIFIED="1547605864644">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      name() {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;commands
+    </p>
+    <p>
+      }
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1547606120751" ID="ID_1072655942" MODIFIED="1547606123665" TEXT="return code">
+<node CREATED="1547606123666" ID="ID_694353252" MODIFIED="1547606140505" TEXT="default return code, last command return code"/>
+<node CREATED="1547606141381" ID="ID_915174584" MODIFIED="1547606148729" TEXT="$? to check function&apos;s return code"/>
+<node CREATED="1547606211910" ID="ID_48382070" MODIFIED="1547606224855" TEXT="use &quot;return&quot; command"/>
+<node CREATED="1547606278189" ID="ID_119965000" MODIFIED="1547606281966" TEXT="return code 0-255"/>
+<node CREATED="1547606764134" ID="ID_1246596855" MODIFIED="1547606779983" TEXT="a=`func` to get output of function"/>
+<node CREATED="1547606839026" ID="ID_965213051" MODIFIED="1547606845734" TEXT="$1, $2 to get parameters"/>
+<node CREATED="1547606846555" ID="ID_6869793" MODIFIED="1547606851869" TEXT="$# to get number of parameters"/>
+</node>
+<node CREATED="1547607098793" ID="ID_724794561" MODIFIED="1547607100476" TEXT="variables">
+<node CREATED="1547607101122" ID="ID_591371070" MODIFIED="1547607110820" TEXT="variables defined in script is global variable"/>
+<node CREATED="1547607185353" ID="ID_652881515" MODIFIED="1547607190360" TEXT="use local to define local variable">
+<node CREATED="1547607250243" ID="ID_100271206" MODIFIED="1547607254527" TEXT="local temp"/>
+<node CREATED="1547607254972" ID="ID_1892644482" MODIFIED="1547607258222" TEXT="local temp=56"/>
+</node>
+</node>
+<node CREATED="1547607698215" ID="ID_1101060592" MODIFIED="1547607704008" TEXT="library">
+<node CREATED="1547607704009" ID="ID_1171485945" MODIFIED="1547607723809" TEXT="source &lt;file&gt;"/>
+<node CREATED="1547607708034" ID="ID_350308750" MODIFIED="1547607713801" TEXT=". &lt;file&gt;"/>
+</node>
+</node>
 </node>
 </map>
