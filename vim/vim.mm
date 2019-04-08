@@ -22,5 +22,75 @@
 </node>
 </node>
 </node>
+<node CREATED="1554276638173" ID="ID_16572960" MODIFIED="1554276649601" POSITION="left" TEXT="21. Go away and come back">
+<node CREATED="1554276650198" ID="ID_1628887135" MODIFIED="1554276655769" TEXT="Sessions">
+<node CREATED="1554276802121" ID="ID_978437998" MODIFIED="1554276805593" TEXT="sessionoptions">
+<node CREATED="1554276930421" ID="ID_208036327" MODIFIED="1554276937224" TEXT=":set sessionoptions+=resize"/>
+<node CREATED="1554277256705" ID="ID_432166912" MODIFIED="1554277260595" TEXT="unix/slash">
+<node CREATED="1554277261475" ID="ID_1134263055" MODIFIED="1554277276538" TEXT=":set sessionoptions+=unix,slash"/>
+</node>
+</node>
+<node CREATED="1554276811432" ID="ID_30242245" MODIFIED="1554276817537" TEXT=":mksession vimbook.vim"/>
+<node CREATED="1554276818823" ID="ID_107251468" MODIFIED="1554276822761" TEXT=":source vimbook.vim"/>
+<node CREATED="1554276834199" ID="ID_1657421737" MODIFIED="1554276838897" TEXT="vim -S vimbook.vim"/>
+<node CREATED="1554277369007" ID="ID_1207993021" MODIFIED="1554277376090" TEXT="viminfo will not be saved in session">
+<node CREATED="1554277377138" ID="ID_1451110990" MODIFIED="1554277413431">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      :mksession! ~/.vim/secret.vim
+    </p>
+    <p>
+      :wviminfo! ~/.vim/secret.viminfo
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1554277415537" ID="ID_1347090968" MODIFIED="1554277437047">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      :source ~/.vim/secret.vim
+    </p>
+    <p>
+      :rviminfo! ~/.vim/secret.viminfo
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1554277788877" ID="ID_359712695" MODIFIED="1554277790576" TEXT="View">
+<node CREATED="1554277791271" ID="ID_1993459756" MODIFIED="1554277793920" TEXT=":mkview"/>
+<node CREATED="1554277795143" ID="ID_509749024" MODIFIED="1554277798511" TEXT=":loadview"/>
+<node CREATED="1554277799437" ID="ID_1676369334" MODIFIED="1554277801472" TEXT=":mkview 1"/>
+<node CREATED="1554277802716" ID="ID_1474837791" MODIFIED="1554277806048" TEXT=":loadview 1"/>
+<node CREATED="1554277897339" ID="ID_1354714678" MODIFIED="1554277899174" TEXT="10 views">
+<node CREATED="1554277901397" ID="ID_1713691534" MODIFIED="1554277904726" TEXT="unnumbered"/>
+<node CREATED="1554277905571" ID="ID_1254513090" MODIFIED="1554277907014" TEXT="1-9"/>
+</node>
+<node CREATED="1554277946613" ID="ID_1074548488" MODIFIED="1554277950301" TEXT="save using file">
+<node CREATED="1554277950833" ID="ID_139383028" MODIFIED="1554277957021" TEXT=":mkview ~/.vim/main.vim"/>
+<node CREATED="1554277957386" ID="ID_747426014" MODIFIED="1554277962781" TEXT=":loadview ~/.vim/main.vim"/>
+</node>
+</node>
+<node CREATED="1554278054689" ID="ID_548958308" MODIFIED="1554278056491" TEXT="Modelines">
+<node CREATED="1554278154333" ID="ID_411772795" MODIFIED="1554278165168" TEXT="/* vim:set shiftwidth=4: */"/>
+<node CREATED="1554278208286" ID="ID_1214139985" MODIFIED="1554278651384" TEXT="default: first or last 5 lines"/>
+<node CREATED="1554278653294" ID="ID_1993641147" MODIFIED="1554278658232" TEXT=":set modelines=10"/>
+<node CREATED="1554278663703" ID="ID_864313339" MODIFIED="1554278667744" TEXT=":set nomodelines"/>
+</node>
+</node>
+<node CREATED="1554278903456" ID="ID_652403125" MODIFIED="1554278911091" POSITION="left" TEXT="22. Finding the file to edit">
+<node CREATED="1554278945919" ID="ID_1726207807" MODIFIED="1554278948970" TEXT="The file browser"/>
+</node>
 </node>
 </map>
