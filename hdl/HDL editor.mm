@@ -24,8 +24,27 @@
 </node>
 </node>
 </node>
-<node CREATED="1554777925230" ID="ID_1848217739" MODIFIED="1554777928500" TEXT="Autoconf">
+<node CREATED="1554779736988" ID="ID_27890272" MODIFIED="1554779741228" TEXT="GNU build system">
+<node CREATED="1554779749364" ID="ID_1869284398" MODIFIED="1554779757940" TEXT="Autoconf">
+<node CREATED="1554779340866" ID="ID_1075235602" MODIFIED="1554779630272" TEXT="Introduction to Autoconf">
 <node CREATED="1554777931021" ID="ID_1919679042" MODIFIED="1554777942204" TEXT="requires GNU m4 for generating configure scripts"/>
+<node CREATED="1554779102616" ID="ID_173669977" MODIFIED="1554779115678" TEXT="extensible package of M4 macros">
+<node CREATED="1554779117126" ID="ID_11483300" MODIFIED="1554779133495" TEXT="produce shell scripts to automatically configure software source code packages."/>
+</node>
+<node CREATED="1554779175701" ID="ID_1448468188" MODIFIED="1554779190814" TEXT="create a configuration script for a package from a template file">
+<node CREATED="1554779211383" ID="ID_112835810" MODIFIED="1554779240139" TEXT="list the operating system features that the package can use"/>
+<node CREATED="1554779241893" ID="ID_1390994891" MODIFIED="1554779247009" TEXT="in the form of M4 macro calls"/>
+</node>
+<node CREATED="1554779303472" ID="ID_613417180" MODIFIED="1554779319392" TEXT="the configuration scripts produced by Autoconf are self-contained">
+<node CREATED="1554779322559" ID="ID_419154673" MODIFIED="1554779332968" TEXT="users do not need to have Autoconf or M4"/>
+</node>
+</node>
+<node CREATED="1554779631224" ID="ID_1395324308" MODIFIED="1554779633296" TEXT="download">
+<node CREATED="1554779633788" ID="ID_770059687" MODIFIED="1554779635239" TEXT="git clone http://git.sv.gnu.org/r/autoconf.git"/>
+</node>
+</node>
+<node CREATED="1554779758636" ID="ID_550557794" MODIFIED="1554779761227" TEXT="Automake"/>
+<node CREATED="1554779762049" ID="ID_537918842" MODIFIED="1554779765147" TEXT="Libtool"/>
 </node>
 </node>
 <node CREATED="1554777551134" ID="ID_1246771621" MODIFIED="1554777555601" POSITION="right" TEXT="parser?"/>
