@@ -209,6 +209,23 @@
 <node CREATED="1554795107940" ID="ID_1013573799" MODIFIED="1554795109327" TEXT="config.h"/>
 </node>
 </node>
+<node CREATED="1554795913354" ID="ID_1424383023" MODIFIED="1554795915736" TEXT="autotools">
+<node CREATED="1554795915737" ID="ID_1938410048" MODIFIED="1554795918072" TEXT="autoconf">
+<node CREATED="1554795918073" ID="ID_1960582989" MODIFIED="1554795931011" TEXT="Create &quot;configure&quot; from &quot;configure.ac&quot;"/>
+</node>
+<node CREATED="1554795932415" ID="ID_1344132500" MODIFIED="1554795934975" TEXT="autoheader">
+<node CREATED="1554795934976" ID="ID_368626607" MODIFIED="1554795945579" TEXT="Create &quot;config.h.in&quot; from &quot;configure.ac&quot;"/>
+</node>
+<node CREATED="1554795946519" ID="ID_741836378" MODIFIED="1554795948715" TEXT="automake">
+<node CREATED="1554795948716" ID="ID_222874066" MODIFIED="1554795969498" TEXT="Create &quot;Makefile.in&quot; from &quot;Makefile.am&quot; and &quot;configure.ac&quot;"/>
+</node>
+<node CREATED="1554795970723" ID="ID_22594179" MODIFIED="1554795972760" TEXT="aclocal">
+<node CREATED="1554795972761" ID="ID_1887375048" MODIFIED="1554795993961" TEXT="Scans &quot;configure.ac&quot; for uses of third-party macros, and gather definitions in aclocal.m4"/>
+</node>
+<node CREATED="1554795995278" ID="ID_842717980" MODIFIED="1554795997447" TEXT="autom4te">
+<node CREATED="1554795997448" ID="ID_1347994663" MODIFIED="1554796013266" TEXT="Autoconf driver for M4. All tools that process configure.ac do so through &quot;autom4te&quot;"/>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1554777551134" ID="ID_1246771621" MODIFIED="1554777555601" POSITION="right" TEXT="parser?"/>
