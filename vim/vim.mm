@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1552540530371" ID="ID_639801088" MODIFIED="1552540560599" TEXT="VIM">
+<node CREATED="1552540530371" ID="ID_639801088" MODIFIED="1554958440584" TEXT="VIM">
 <node CREATED="1552540561700" ID="ID_772539730" MODIFIED="1552540569453" POSITION="right" TEXT="3. Moving around">
 <node CREATED="1552540570505" ID="ID_1736800335" MODIFIED="1552540581403" TEXT="Scrolling around">
 <node CREATED="1552540583377" ID="ID_1405254518" MODIFIED="1552540589197" TEXT="half screen">
@@ -47,8 +47,7 @@
       :wviminfo! ~/.vim/secret.viminfo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1554277415537" ID="ID_1347090968" MODIFIED="1554277437047">
 <richcontent TYPE="NODE"><html>
@@ -63,8 +62,7 @@
       :rviminfo! ~/.vim/secret.viminfo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -91,6 +89,19 @@
 </node>
 <node CREATED="1554278903456" ID="ID_652403125" MODIFIED="1554278911091" POSITION="left" TEXT="22. Finding the file to edit">
 <node CREATED="1554278945919" ID="ID_1726207807" MODIFIED="1554278948970" TEXT="The file browser"/>
+</node>
+<node CREATED="1554950548342" ID="ID_133169138" MODIFIED="1554950551021" POSITION="right" TEXT="plugin">
+<node CREATED="1554950551022" ID="ID_1303109226" MODIFIED="1554950554612" TEXT="global plugin">
+<node CREATED="1554950642542" ID="ID_1943282766" MODIFIED="1554950645753" TEXT="NAME"/>
+<node CREATED="1554950646566" ID="ID_31919734" MODIFIED="1554950647529" TEXT="BODY"/>
+<node CREATED="1554950690989" ID="ID_1746997567" MODIFIED="1554950693111" TEXT="HEADER"/>
+</node>
+<node CREATED="1554950555240" ID="ID_1878427676" MODIFIED="1554950558868" TEXT="filetype plugin"/>
+<node CREATED="1554958442803" ID="ID_557602751" MODIFIED="1554958445851" TEXT="verilog plugin">
+<node CREATED="1554958446448" ID="ID_1864390336" MODIFIED="1554958450755" TEXT="syntax highlight"/>
+<node CREATED="1554958451695" ID="ID_1642845092" MODIFIED="1554958454819" TEXT="matchit"/>
+<node CREATED="1554958455711" ID="ID_388190083" MODIFIED="1554958477938" TEXT="indent"/>
+</node>
 </node>
 </node>
 </map>
